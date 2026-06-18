@@ -1,0 +1,10 @@
+# Network Port Scanner — Dependencies
+# All core functionality uses Python stdlib only.
+# Optional: install for enhanced features.
+
+# No external dependencies required for core scanning.
+# Python 3.8+ recommended.
+
+# Optional enhancements:
+# colorama>=0.4.6       # Windows ANSI color support
+# tqdm>=4.65.0          # Alternative progress bars
